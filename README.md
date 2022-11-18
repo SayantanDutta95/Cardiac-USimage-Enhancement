@@ -20,7 +20,7 @@ Adaptive Contrast Enhancement of Cardiac Ultrasound Images using a Deep Unfolded
 # Sample code of the papers:
 ----------------------------------------------------------------------------------------
 
-1)
+1) Sayantan Dutta, Bertrand Georgeot, Denis Kouamé, Damien Garcia, Adrian Basarab, "Adaptive Contrast Enhancement of Cardiac Ultrasound Images using a Deep Unfolded Many-Body Quantum Algorithm", 2022 IEEE International Ultrasonics Symposium (IUS), 2022, pp. 1-4.
 
 2) Sayantan Dutta, Adrian Basarab, Bertrand Georgeot, and Denis Kouamé, "DIVA: Deep Unfolded Network from Quantum Interactive Patches for Image Restoration," Submitted, 2022.
 
